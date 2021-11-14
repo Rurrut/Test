@@ -1,7 +1,21 @@
-.color-primary{
-    color: blue;
+.color-primary {
+  color: blue;
 }
 
-.font-big{
-    font-size: large;
+.font-big {
+  font-size: large;
+}
+
+.select-style1 {
+  height: 80px;
+  color: aqua;
+}
+
+.thead1 > tr > td {
+  border: 1px solid black;
+
+  font-weight: bold;
+}
+.tbody1 > tr > td {
+  border: 1px solid black;
 }
